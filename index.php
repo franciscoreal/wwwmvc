@@ -1,4 +1,6 @@
 ﻿<?php
 
-ini_set('display_errors', 1);
-require_once 'application/bootstrap.php';
+//ini_set('display_errors', 1);
+require_once __DIR__ . '/application/autoload.php';
+
+Route::start();
