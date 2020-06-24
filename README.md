@@ -1,4 +1,5 @@
 ﻿<p>
-Простой проект на MVC|PHP 2020 &copy;
+Реализация MVC паттерна на примере создания сайта-визитки на PHP.
+<br/>
+2020 &copy; franciscoreal
 </p>
-Welcome to my PHP MVC project 

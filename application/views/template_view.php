@@ -16,7 +16,7 @@ Modified by VitalySwipe
 		<meta http-equiv="content-type" content="text/html; charset=utf-8" />
 		<meta name="description" content="" />
 		<meta name="keywords" content="" />
-		<title>ОЛОЛОША TEAM</title>
+		<title>HABR TEAM</title>
 		<link href="http://fonts.googleapis.com/css?family=Open+Sans" rel="stylesheet" type="text/css" />
 		<link href="http://fonts.googleapis.com/css?family=Kreon" rel="stylesheet" type="text/css" />
 		<link rel="stylesheet" type="text/css" href="/css/style.css" />
@@ -42,14 +42,15 @@ Modified by VitalySwipe
 	<body>
 		<div id="wrapper">
 			<div id="header">
-				<div id="logo">
-					<a href="/">ОЛОЛОША</span> <span class="cms">TEAM</span></a>
+				<div id="logo" align="center">
+					<a href="/">HABR</span> <span class="cms">TEAM</span></a>
 				</div>
 				<div id="menu">
 					<ul>
 						<li class="first active"><a href="/">Главная</a></li>
 						<li><a href="/services">Услуги</a></li>
 						<li><a href="/portfolio">Портфолио</a></li>
+						<li><a href="/login">Логин</a></li>
 						<li class="last"><a href="/contacts">Контакты</a></li>
 					</ul>
 					<br class="clearfix" />
@@ -84,6 +85,7 @@ Modified by VitalySwipe
 							<li class="first "><a href="/">Главная</a></li>
 							<li><a href="/services">Услуги</a></li>
 							<li><a href="/portfolio">Портфолио</a></li>
+							<li><a href="/login">Логин</a></li>
 							<li class="last"><a href="/contacts">Контакты</a></li>
 						</ul>
 					</div>
@@ -141,7 +143,7 @@ Modified by VitalySwipe
 			</div>
 		</div>
 		<div id="footer">
-			<a href="/">ОЛОЛОША TEAM</a> &copy; 2012</a>
+			<a href="/">HABR TEAM</a> &copy; 2012</a>
 		</div>
 	</body>
 </html>
