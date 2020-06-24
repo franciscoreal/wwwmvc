@@ -1,10 +1,9 @@
 <?php
 
-spl_autoload_register(function ($class)
-{
+spl_autoload_register(function ($class){
 	$appDir = __DIR__;
 	$path = [
-		'controller',
+		'controllers',
 		'core',
 		'models'
 	];
