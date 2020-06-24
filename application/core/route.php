@@ -61,7 +61,11 @@ class Route
 			правильно было бы кинуть здесь исключение,
 			но для упрощения сразу сделаем редирект на страницу 404
 			*/
+<<<<<<< HEAD
 			$controller_name = 'Controller_404';
+=======
+            $controller_name = 'Controller_404';
+>>>>>>> 0f831b37f92b3d2c9bab53adf112c1a4b472a4fb
             $controller_file = strtolower($controller_name).'.php';
             $controller_path = "application/controllers/".$controller_file;
             include "application/controllers/".$controller_file;
@@ -90,6 +94,9 @@ class Route
         $host = 'http://'.$_SERVER['HTTP_HOST'].'/';
         header('HTTP/1.1 404 Not Found');
 		header("Status: 404 Not Found");
+<<<<<<< HEAD
 		//header('Location:'.$host.'404');
+=======
+>>>>>>> 0f831b37f92b3d2c9bab53adf112c1a4b472a4fb
     }
 }
